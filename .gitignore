@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.toc
+*.pdf
+*.zip
+\.DS_Store
+*~
+*.fdb_latexmk
+*.fls
+*.gz
+*\__latexindent_temp.tex
